@@ -1,7 +1,7 @@
 # REST API starter
 
 This application is the start point for Sprint 1 of the Lloyds Bank Group Modern Engineering Bootcamp Project Specification.
-HELLO MY NAME IS YEMURRAAAAAIIII
+
 ## Installation
 
 To initialise the project you will need to install several dependencies, open up a git bash terminal from the repo directory and run the command:
